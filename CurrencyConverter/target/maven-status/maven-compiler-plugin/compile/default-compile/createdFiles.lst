@@ -1,0 +1,5 @@
+com\example\currency\CurrencyConversionService$ConversionResult.class
+com\example\currency\CurrencyConversionService.class
+com\mycompany\currencyconverter\resources\JakartaEE10Resource.class
+com\mycompany\currencyconverter\JakartaRestConfiguration.class
+com\example\currency\CurrencyApplication.class
