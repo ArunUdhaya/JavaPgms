@@ -1,0 +1,6 @@
+com\mycompany\studentregistrationservice\JakartaRestConfiguration.class
+com\example\rest\Student.class
+com\example\rest\RestApplication.class
+com\mycompany\studentregistrationservice\resources\JakartaEE10Resource.class
+com\example\rest\StudentService.class
+com\mycompany\studentregistrationservice\GenericResource.class
